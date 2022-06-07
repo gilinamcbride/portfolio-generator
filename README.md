@@ -19,4 +19,4 @@ To run this application:
 - Clone the code
 - Install npm inquirer
 - Launch terminal/bash in your directory
-- Call "node app" in the command line
+- Run the application from the command line using "node app"
