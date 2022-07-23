@@ -9,7 +9,7 @@
 
 ## Description
 
-Portfolio Generator uses Node.js to build a program that creates an HTML portfolio page. This app was created by following the steps of a course modul
+Portfolio Generator uses Node.js to build a program that creates an HTML portfolio page. This app was created by following the steps of a course module.
 
 ## Usage
 
