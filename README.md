@@ -13,7 +13,7 @@ Portfolio Generator uses Node.js to build a program that creates an HTML portfol
 
 ## Usage
 
-Clone respository and install necessary npm packages. Run "node app.js" and follow the prompts and answer the questions. The generated README.md file will be located in the dist folder.
+Clone respository and install necessary npm packages. Run "node app.js" and follow the prompts and answer the questions. The generated html file will be located in the dist folder.
 
 
 ## Questions?
